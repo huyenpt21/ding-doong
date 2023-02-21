@@ -2,7 +2,7 @@
   "name": "ding-doong",
   "version": "0.1.0",
   "private": true,
-  "home": "https://huyenpt21.github.io/ding-doong",
+  "homepage": "https://huyenpt21.github.io/ding-doong",
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
     "@testing-library/jest-dom": "^5.16.5",
